@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nihal Sathawane</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
-- 🔭 I’m currently working on **College Facilities Website**
+- 🔭 I’m currently working on **College Course Portal**
 
 - 🌱 I’m currently learning **React Js , Machine Learning**
 
