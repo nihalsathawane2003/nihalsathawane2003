@@ -57,15 +57,14 @@ I am a Full Stack Developer specializing in MERN Stack and a Machine Learning in
 
 ### 📊 GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=nihalsathawane2003&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" style="flex: 1 1 300px; margin: 10px; height: 200px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nihalsathawane2003&theme=radical" alt="GitHub Streak" style="flex: 1 1 300px; margin: 10px; height: 200px;" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=nihalsathawane2003&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" style="flex: 1 1 48%; height: 200px; box-sizing: border-box;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nihalsathawane2003&theme=radical" alt="GitHub Streak" style="flex: 1 1 48%; height: 200px; box-sizing: border-box;" />
 </div>
 
-<div align="center" style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalsathawane2003&layout=compact&theme=radical" alt="Top Languages" style="flex: 1 1 300px; margin: 10px; height: 200px;" />
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalsathawane2003&layout=compact&theme=radical" alt="Top Languages" style="flex: 1 1 100%; height: 200px; box-sizing: border-box;" />
 </div>
-
 
 ---
 
