@@ -57,13 +57,13 @@ I am a Full Stack Developer specializing in MERN Stack and a Machine Learning in
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nihalsathawane2003&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" style="width: 49%; height: 200px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nihalsathawane2003&theme=radical" alt="GitHub Streak" style="width: 49%; height: 215px;" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=nihalsathawane2003&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" style="flex: 1 1 300px; margin: 10px; height: 200px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nihalsathawane2003&theme=radical" alt="GitHub Streak" style="flex: 1 1 300px; margin: 10px; height: 200px;" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalsathawane2003&layout=compact&theme=radical" alt="Top Languages" style="width: 49%; height: 200px;" />
+<div align="center" style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalsathawane2003&layout=compact&theme=radical" alt="Top Languages" style="flex: 1 1 300px; margin: 10px; height: 200px;" />
 </div>
 
 
