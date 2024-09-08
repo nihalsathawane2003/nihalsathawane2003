@@ -31,7 +31,6 @@ I am a Full Stack Developer specializing in MERN Stack and a Machine Learning in
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
 
-
 ---
 
 ### 🚀 Projects 
@@ -57,8 +56,8 @@ I am a Full Stack Developer specializing in MERN Stack and a Machine Learning in
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=default" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=nihalsathawane2003&show_icons=true&theme=default&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nihalsathawane2003&theme=default" alt="GitHub Streak">
 </p>
 
 ---
