@@ -1,33 +1,57 @@
+<h1 align="center">Hi, I'm Nihal 👋</h1>
+<h3 align="center">Full Stack Developer | MERN Stack | Java | Python</h3>
 
-# Hi there 👋, I'm Nihal!
+<p align="center">
+  <a href="https://github.com/your-username"><img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social"></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white"></a>
+</p>
 
-I'm a **Full Stack Developer And Machine Learning Intern** passionate about building web applications and learning new technologies.
+---
 
-## 🔧 Technologies & Tools
+### 👨‍💻 About Me
+
+I am a Full Stack Developer specializing in **MERN Stack** with experience in building scalable web applications. I'm passionate about crafting clean, maintainable code and enjoy solving complex problems.
+
+- 🌱 I’m currently deepening my knowledge in **Microservices** and **Cloud Architecture**.
+- 🧑‍💻 I’m always learning and keeping up with new tech trends.
+- ⚡ Fun fact: I'm an avid reader and love exploring cutting-edge technologies.
+
+### 🔧 Technologies & Tools
+
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS_Code-333333?style=flat&logo=visual-studio-code)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 
-## 🚀 Projects
-Here are some of my top projects:
+---
 
-- [**Project 1**](https://github.com/your-username/project1) - A brief description of Project 1
-- [**Project 2**](https://github.com/your-username/project2) - A brief description of Project 2
-- [**Project 3**](https://github.com/your-username/project3) - A brief description of Project 3
+### 🚀 Projects
 
-## 📈 GitHub Stats
-![Nihal's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+- **[Multi-Client Service Platform](https://github.com/your-username/multi-client-platform)**: A scalable multi-tenant service platform allowing merchants to list their services and customers to book appointments.
+  
+- **[CV Shortlisting System](https://github.com/your-username/cv-shortlisting-system)**: Built a system that uses NLP to analyze CVs and shortlist candidates based on skills and keywords.
 
-## ✨ Fun Facts About Me
-- 🔭 I’m currently working on **Crop and Weed Detection**.
-- 🌱 I’m currently learning **Flask and Streamlit**.
-- 💬 Ask me about **Full Stack Development** or **Machine Learning**.
-- ⚡ Fun fact: I love hiking and solving puzzles!
+- **[Crop and Weed Detection](https://github.com/your-username/crop-weed-detection)**: A project leveraging computer vision for real-time crop and weed detection to assist in smart farming.
 
-## 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile)](https://www.linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your-email@gmail.com)](mailto:your-email@gmail.com)
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=default" alt="GitHub Streak">
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+Feel free to reach out to discuss new technologies, collaboration on projects, or anything else.
+
+- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **Email**: [your-email@gmail.com](mailto:your-email@gmail.com)
