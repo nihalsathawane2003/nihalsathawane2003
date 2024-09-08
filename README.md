@@ -15,7 +15,9 @@ I am a Full Stack Developer specializing in MERN Stack and a Machine Learning in
 
 ### ✨ Fun Facts About Me
 -🌱 I’m currently expanding my knowledge in Machine Learning.
+
 -🧑‍💻 I’m constantly learning and staying updated with the latest tech trends.
+
 -⚡ Fun fact: I'm an avid reader with a passion for exploring innovative technologies.
 
 ### 🔧 Technologies & Tools
@@ -56,9 +58,14 @@ I am a Full Stack Developer specializing in MERN Stack and a Machine Learning in
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nihalsathawane2003&show_icons=true&theme=default&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nihalsathawane2003&theme=default" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=nihalsathawane2003&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nihalsathawane2003&theme=radical" alt="GitHub Streak" height="180px"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalsathawane2003&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
+</p>
+
 
 ---
 
