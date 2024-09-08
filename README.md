@@ -15,9 +15,7 @@ I am a Full Stack Developer specializing in MERN Stack and a Machine Learning in
 
 ### ✨ Fun Facts About Me
 -🌱 I’m currently expanding my knowledge in Machine Learning.
-
 -🧑‍💻 I’m constantly learning and staying updated with the latest tech trends.
-
 -⚡ Fun fact: I'm an avid reader with a passion for exploring innovative technologies.
 
 ### 🔧 Technologies & Tools
@@ -68,9 +66,7 @@ I am a Full Stack Developer specializing in MERN Stack and a Machine Learning in
 
 ---
 
-### 🤝 Let's Connect
-
+### 📫 How to reach me:
 Feel free to reach out to discuss new technologies, collaboration on projects, or anything else.
-
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Email**: [your-email@gmail.com](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nihalsathawane2003)](https://www.linkedin.com/in/nihalsathawane2003)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nihalsathawane2003@gmail.com)](mailto:nihalsathawane2003@gmail.com)
