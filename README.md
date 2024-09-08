@@ -59,7 +59,7 @@ I am a Full Stack Developer specializing in MERN Stack and a Machine Learning in
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nihalsathawane2003&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" style="width: 49%; height: 200px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nihalsathawane2003&theme=radical" alt="GitHub Streak" style="width: 49%; height: 200px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nihalsathawane2003&theme=radical" alt="GitHub Streak" style="width: 49%; height: 230px;" />
 </div>
 
 <div align="center">
