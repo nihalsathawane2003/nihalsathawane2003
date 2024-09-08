@@ -63,7 +63,7 @@ I am a Full Stack Developer specializing in MERN Stack and a Machine Learning in
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalsathawane2003&layout=compact&theme=radical" alt="Top Languages" style="flex: 1 1 100%; height: 200px; box-sizing: border-box;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalsathawane2003&layout=compact&theme=radical" alt="Top Languages" style="flex: 1 1 100%; height: 200px;" />
 </div>
 
 ---
