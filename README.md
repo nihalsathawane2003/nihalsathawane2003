@@ -2,9 +2,9 @@
 <h3 align="center">Full Stack Developer | MERN Stack | Java | Python</h3>
 
 <p align="center">
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social"></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white"></a>
+  <a href="https://github.com/nihalsathawane2003"><img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social"></a>
+  <a href="https://linkedin.com/in/nihal-sathawane"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
+  <a href="mailto:nihalsathawane2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -31,8 +31,6 @@ I am a Full Stack Developer specializing in **MERN Stack** with experience in bu
 ---
 
 ### 🚀 Projects
-
-## 🚀 Projects
 
 - [**College Course Portal** | MERN](https://github.com/your-username/college-course-portal) | [Demo](https://college-course-portal-demo.com)  
   Developed an online video lecture platform with course management, progress tracking, and quizzes using **MERN Stack**.
