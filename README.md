@@ -13,9 +13,9 @@
 
 I am a Full Stack Developer specializing in MERN Stack and a Machine Learning intern, with experience in building scalable web applications and developing intelligent solutions.
 
-🌱 I’m currently expanding my knowledge in Machine Learning.
-🧑‍💻 I’m constantly learning and staying updated with the latest tech trends.
-⚡ Fun fact: I'm an avid reader with a passion for exploring innovative technologies.
+-🌱 I’m currently expanding my knowledge in Machine Learning.
+-🧑‍💻 I’m constantly learning and staying updated with the latest tech trends.
+-⚡ Fun fact: I'm an avid reader with a passion for exploring innovative technologies.
 
 ### 🔧 Technologies & Tools
 
@@ -33,18 +33,18 @@ I am a Full Stack Developer specializing in MERN Stack and a Machine Learning in
 
 ---
 
-### 🚀 Projects
+### 🚀 Projects 
 
-- [**College Course Portal** | MERN](https://github.com/your-username/college-course-portal) | [Demo](https://college-course-portal-demo.com)  
+- [**College Course Portal** | MERN](https://github.com/nihalsathawane2003/LMS-Portal_College) | [Demo](https://collegelmsportal.netlify.app)  
   Developed an online video lecture platform with course management, progress tracking, and quizzes using **MERN Stack**.
 
-- [**Plant Leaf Disease Detection** | ML, Flask](https://github.com/your-username/plant-leaf-disease-detection) | [Demo](https://plant-leaf-detection-demo.com)  
+- [**Plant Leaf Disease Detection** | ML, Flask](https://github.com/nihalsathawane2003/Plant_leaf_desease_detection)
   Created a web app using **machine learning** to diagnose plant leaf diseases via image classification.
 
-- [**Real Estate Price Prediction** | Python, Flask](https://github.com/your-username/real-estate-price-prediction) | [Demo](https://real-estate-price-prediction-demo.com)  
+- [**Real Estate Price Prediction** | Python, Flask](https://github.com/nihalsathawane2003/Real_State_price_prediction)  
   Built a **Flask web app** to predict real estate prices based on property features using **machine learning**.
 
-- [**CV Shortlisting System** | Python, Streamlit](https://github.com/your-username/cv-shortlisting-system) | [Demo](https://cv-shortlisting-demo.com)  
+- [**CV Shortlisting System** | Python, Streamlit](https://github.com/nihalsathawane2003/CV-Shortlisting-System) | [Demo](https:nihalsathawane2003-cv-shortlisting-system-app-yxqpfp.streamlit.app)  
   Developed an **automated CV screening tool** using keyword extraction and ranking with **Streamlit**.
 
 ---
