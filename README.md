@@ -13,6 +13,7 @@
 
 I am a Full Stack Developer specializing in MERN Stack and a Machine Learning intern, with experience in building scalable web applications and developing intelligent solutions.
 
+### ✨ Fun Facts About Me
 -🌱 I’m currently expanding my knowledge in Machine Learning.
 -🧑‍💻 I’m constantly learning and staying updated with the latest tech trends.
 -⚡ Fun fact: I'm an avid reader with a passion for exploring innovative technologies.
@@ -46,6 +47,10 @@ I am a Full Stack Developer specializing in MERN Stack and a Machine Learning in
 
 - [**CV Shortlisting System** | Python, Streamlit](https://github.com/nihalsathawane2003/CV-Shortlisting-System) | [Demo](https:nihalsathawane2003-cv-shortlisting-system-app-yxqpfp.streamlit.app)  
   Developed an **automated CV screening tool** using keyword extraction and ranking with **Streamlit**.
+
+- [**University Facilities** | HTML, CSS, JavaScript](https://github.com/nihalsathawane2003/university_facilities) | [Demo](https://nihalsathawane2003.github.io/university_facilities/)  
+  Developed a website showcasing university facilities using **HTML, CSS,** and **JavaScript**.
+
 
 ---
 
