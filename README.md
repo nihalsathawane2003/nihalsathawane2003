@@ -32,12 +32,21 @@ I am a Full Stack Developer specializing in **MERN Stack** with experience in bu
 
 ### 🚀 Projects
 
-- **[Multi-Client Service Platform](https://github.com/your-username/multi-client-platform)**: A scalable multi-tenant service platform allowing merchants to list their services and customers to book appointments.
-  
-- **[CV Shortlisting System](https://github.com/your-username/cv-shortlisting-system)**: Built a system that uses NLP to analyze CVs and shortlist candidates based on skills and keywords.
+- ## 🚀 Projects
 
-- **[Crop and Weed Detection](https://github.com/your-username/crop-weed-detection)**: A project leveraging computer vision for real-time crop and weed detection to assist in smart farming.
+### [College Course Portal | MERN](https://github.com/your-username/college-course-portal) | [Demo](https://college-course-portal-demo.com)
+- Developed a web application to provide online video lecture courses for students.
+- Implemented user authentication and course management features using **MongoDB, Express, React, and Node.js (MERN)**.
 
+### [Plant Leaf Disease Detection Web App | ML, Flask](https://github.com/your-username/plant-leaf-disease-detection) | [Demo](https://plant-leaf-detection-demo.com)
+- Created a web application to detect plant leaf diseases to assist farmers in identifying and treating plant issues.
+
+### [Real Estate Price Prediction | Python, Flask, HTML, CSS](https://github.com/your-username/real-estate-price-prediction) | [Demo](https://real-estate-price-prediction-demo.com)
+- Developed a machine learning model to predict real estate prices based on various features.
+- Analyzed **property size, location, and amenities** to forecast accurate property values.
+
+### [CV Shortlisting System | Python, Streamlit](https://github.com/your-username/cv-shortlisting-system) | [Demo](https://cv-shortlisting-demo.com)
+- Developed a tool to automate the screening of job applications based on specific skills and keywords.
 ---
 
 ### 📊 GitHub Stats
