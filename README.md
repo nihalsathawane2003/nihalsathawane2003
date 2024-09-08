@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nihal 👋</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Java | Python</h3>
+<h3 align="center">Full Stack Developer | Machine Learning | MERN Stack | Java | Python</h3>
 
 <p align="center">
   <a href="https://github.com/nihalsathawane2003"><img src="https://img.shields.io/github/followers/nihalsathawane2003?label=Follow&style=social"></a>
@@ -11,22 +11,25 @@
 
 ### 👨‍💻 About Me
 
-I am a Full Stack Developer specializing in **MERN Stack** with experience in building scalable web applications. I'm passionate about crafting clean, maintainable code and enjoy solving complex problems.
+I am a Full Stack Developer specializing in MERN Stack and a Machine Learning intern, with experience in building scalable web applications and developing intelligent solutions.
 
-- 🌱 I’m currently deepening my knowledge in **Microservices** and **Cloud Architecture**.
-- 🧑‍💻 I’m always learning and keeping up with new tech trends.
-- ⚡ Fun fact: I'm an avid reader and love exploring cutting-edge technologies.
+🌱 I’m currently expanding my knowledge in Machine Learning.
+🧑‍💻 I’m constantly learning and staying updated with the latest tech trends.
+⚡ Fun fact: I'm an avid reader with a passion for exploring innovative technologies.
 
 ### 🔧 Technologies & Tools
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+
 
 ---
 
