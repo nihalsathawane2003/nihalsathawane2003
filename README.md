@@ -32,21 +32,20 @@ I am a Full Stack Developer specializing in **MERN Stack** with experience in bu
 
 ### 🚀 Projects
 
-- ## 🚀 Projects
+## 🚀 Projects
 
-### [College Course Portal | MERN](https://github.com/your-username/college-course-portal) | [Demo](https://college-course-portal-demo.com)
-- Developed a web application to provide online video lecture courses for students.
-- Implemented user authentication and course management features using **MongoDB, Express, React, and Node.js (MERN)**.
+- [**College Course Portal** | MERN](https://github.com/your-username/college-course-portal) | [Demo](https://college-course-portal-demo.com)  
+  Developed an online video lecture platform with course management, progress tracking, and quizzes using **MERN Stack**.
 
-### [Plant Leaf Disease Detection Web App | ML, Flask](https://github.com/your-username/plant-leaf-disease-detection) | [Demo](https://plant-leaf-detection-demo.com)
-- Created a web application to detect plant leaf diseases to assist farmers in identifying and treating plant issues.
+- [**Plant Leaf Disease Detection** | ML, Flask](https://github.com/your-username/plant-leaf-disease-detection) | [Demo](https://plant-leaf-detection-demo.com)  
+  Created a web app using **machine learning** to diagnose plant leaf diseases via image classification.
 
-### [Real Estate Price Prediction | Python, Flask, HTML, CSS](https://github.com/your-username/real-estate-price-prediction) | [Demo](https://real-estate-price-prediction-demo.com)
-- Developed a machine learning model to predict real estate prices based on various features.
-- Analyzed **property size, location, and amenities** to forecast accurate property values.
+- [**Real Estate Price Prediction** | Python, Flask](https://github.com/your-username/real-estate-price-prediction) | [Demo](https://real-estate-price-prediction-demo.com)  
+  Built a **Flask web app** to predict real estate prices based on property features using **machine learning**.
 
-### [CV Shortlisting System | Python, Streamlit](https://github.com/your-username/cv-shortlisting-system) | [Demo](https://cv-shortlisting-demo.com)
-- Developed a tool to automate the screening of job applications based on specific skills and keywords.
+- [**CV Shortlisting System** | Python, Streamlit](https://github.com/your-username/cv-shortlisting-system) | [Demo](https://cv-shortlisting-demo.com)  
+  Developed an **automated CV screening tool** using keyword extraction and ranking with **Streamlit**.
+
 ---
 
 ### 📊 GitHub Stats
