@@ -15,7 +15,9 @@ I am a Full Stack Developer specializing in MERN Stack and a Machine Learning in
 
 ### ✨ Fun Facts About Me
 -🌱 I’m currently expanding my knowledge in Machine Learning.
+
 -🧑‍💻 I’m constantly learning and staying updated with the latest tech trends.
+
 -⚡ Fun fact: I'm an avid reader with a passion for exploring innovative technologies.
 
 ### 🔧 Technologies & Tools
