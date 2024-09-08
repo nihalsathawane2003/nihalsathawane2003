@@ -67,6 +67,8 @@ I am a Full Stack Developer specializing in MERN Stack and a Machine Learning in
 ---
 
 ### 📫 How to reach me:
-Feel free to reach out to discuss new technologies, collaboration on projects, or anything else.
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nihalsathawane2003)](https://www.linkedin.com/in/nihalsathawane2003)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nihalsathawane2003@gmail.com)](mailto:nihalsathawane2003@gmail.com)
+
+Feel free to reach out to discuss new technologies, collaboration on projects, or anything else.
